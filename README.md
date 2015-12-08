@@ -18,7 +18,6 @@ to type
 in your terminal window and see the notebook panel load in your web browser.
 
 
-
 ## Presentation Format
 
 The tutorial will start with data manipulation using pandas - loading and 
@@ -26,7 +25,8 @@ cleaning data. We'll then use scikit-learn to make predictions. By the end of
 the session, we would have worked on the 
 [Kaggle Titanic data](https://www.kaggle.com/c/titanic)
 from start to finish, through a number of iterations in an increasing order of
-sophistication. We’ll also have a brief discussion on cross-validation.
+sophistication. Time-permitting, we’ll also have a brief discussion on 
+cross-validation.
 - [1-0_First_Cut.ipynb](http://nbviewer.ipython.org/github/savarin/python_for_ml/blob/master/1-0_First_Cut.ipynb)
 - [1-1_Missing_Values.ipynb](http://nbviewer.ipython.org/github/savarin/python_for_ml/blob/master/1-1_Missing_Values.ipynb)
 - [1-2_Dummy_Variables.ipynb](http://nbviewer.ipython.org/github/savarin/python_for_ml/blob/master/1-2_Dummy_Variables.ipynb)
