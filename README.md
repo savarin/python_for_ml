@@ -1,20 +1,23 @@
 # Python for ML
 
 ## Installation Notes
-This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython 
+This tutorial requires *pandas*, *scikit-learn* and *IPython* with the IPython
 Notebook. These can be installed with *pip* by typing the following in terminal:
 
-	pip install numpy pandas sklearn ipython
+    pip install --upgrade pip
+    pip install scipy
+    pip install numpy pandas sklearn ipython
+    pip install jupyter
 
 Next, clone the material in this tutorial using git as follows:
 
-	git clone git://github.com/savarin/python_for_ml.git
+    git clone git://github.com/savarin/python_for_ml.git
 
 We will be reviewing the materials with the IPython Notebook. You should be able
 to type
-	
-	ipython notebook
-	
+
+    jupyter notebook
+
 in your terminal window and see the notebook panel load in your web browser.
 
 
